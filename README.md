@@ -16,8 +16,9 @@ Estudiante de ingenieria en sistemas, apasionada con todo lo que se trata del co
 
 Secretaria de una tienda naturista
  *Experiencia en Inventariado Los Geraneos*
-- Analisis
+- Analisis de datos
 - Base de datos
+- Inventarios 
 
   
 ## Estudios obtenidos
